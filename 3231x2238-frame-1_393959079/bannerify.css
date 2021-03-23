@@ -12,7 +12,7 @@ html {
 	box-sizing: border-box;
 	cursor: default;
 	display: block;
-	height: 2238px;
+	height: 1238px;
 	overflow: hidden;
 	position: relative;
 	width: 3231px;
@@ -37,13 +37,13 @@ html {
 
 #b_1_banner1_383284478 {
 	top: 0px;
-	left: 2191px;
+	left: 1191px;
 	z-index: 1;
 }
 
 #img_1_banner1_383284478 {
-	width: 1040px;
-	height: 2238px;
+	width: 540px;
+	height: 1238px;
 }
 
 #img_1_banner1_383284478.bnfy-enter {
